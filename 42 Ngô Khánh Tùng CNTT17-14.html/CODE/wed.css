@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header h1 {
+    text-align: center;
+    color: rgb(184, 10, 10);
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
+header{
+    text-align:center ;
+}
+.sayqua button{
+    color: rgb(228, 233, 238);
+    float: right;
+    margin-top: -2px;
+    background: palevioletred;
+    font-size: larger;
+}
+.sao1 img{
+    float: left;
+    width: 400px;
+    height: 350px;
+    margin-top: -1200px;
+}
+.sao2 img{
+    width: 400px;
+    height: 350px;
+    float: right;
+    margin-top: -1200px;
+}
+.sao3 img{
+    width: 400px;
+    height: 350px;
+    float: right;
+    margin-top: -900px;
+}
+.sao4 img{ 
+    float: left;
+    margin-top: -900px;
+    width: 400px;
+    height: 350px;
+}
+.sao5 img{
+    float: right;
+    margin-top: -550px;
+    width: 400px;
+    height: 250px;
+}
+.sao6 img{
+    float: left;
+    margin-top: -550px;
+    width: 400px;
+    height: 250px;
+}
+.sao7 img{
+    float: right;
+    margin-top: -300px;
+    width: 400px;
+    height: 350px;
+}
+.sao8 img{
+    float: left;
+    margin-top: -300px;
+    width: 400px;
+    height: 350px;
+}
+.sao9 img{
+    float: left;
+    margin-top: -1200px;
+}
+.sao10 img{
+    float: left;
+    margin-top: -1200px;
+}
+.sao11 img{
+    float: left;
+    margin-top: -1200px;
+} 
+body{
+    background: tan;
+}
+main h2 ,h3 {
+    clear: both;
+    color: brown ;
+    text-align: center;
+}
